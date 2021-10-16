@@ -3,14 +3,14 @@
     {
       "type": "cow",
       "id": 3046,
-      "level": 1,
-      "actionLevel": 1
+      "level": 2,
+      "actionLevel": 2
     },
     {
       "type": "feedmill",
       "id": 3045,
-      "level": 1,
-      "actionLevel": 1
+      "level": 2,
+      "actionLevel": 2
     },
     {
       "type": "land",
@@ -38,9 +38,9 @@
     }
   ],
   "stock": {
-    "WHEAT": 2,
-    "CARROT": 1,
-    "COWFOOD": 1
+    "WHEAT": 4,
+    "CARROT": 2,
+    "COWFOOD": 2
   },
   "autoSellInfos": [
     {
