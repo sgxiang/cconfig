@@ -3,8 +3,8 @@
     {
       "type": "cow",
       "id": 3046,
-      "level": 1,
-      "actionLevel": 2
+      "level": 2,
+      "actionLevel": 1
     },
     {
       "type": "feedmill",
