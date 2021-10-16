@@ -1,6 +1,12 @@
 {
   "targetWorks": [
     {
+      "type": "feedmill",
+      "id": 3045,
+      "level": 1,
+      "actionLevel": 1
+    },
+    {
       "type": "land",
       "id": 2916,
       "level": 2,
@@ -27,7 +33,7 @@
   ],
   "stock": {
     "WHEAT": 2,
-    "CORN": 1
+    "CARROT": 1
   },
   "autoSellInfos": [
     {
