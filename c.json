@@ -1,0 +1,54 @@
+{
+    "targetWorks": [
+      {
+        "type": "land",
+        "id": 2916,
+        "level": 2,
+        "actionLevel": 2
+      },
+      {
+        "type": "land",
+        "id": 2917,
+        "level": 2,
+        "actionLevel": 1
+      },
+      {
+        "type": "land",
+        "id": 2628,
+        "level": 3,
+        "actionLevel": 2
+      },
+      {
+        "type": "land",
+        "id": 1695,
+        "level": 1,
+        "actionLevel": 1
+      }
+    ],
+    "autoSellInfos": [
+      {
+        "code": "dfsfarmitems",
+        "symbol": "WHEAT",
+        "min": 1,
+        "minPrice": 1.06,
+        "maxPrice": 3,
+        "p": 0.005
+      },
+      {
+        "code": "dfsfarmitems",
+        "symbol": "CORN",
+        "min": 1,
+        "minPrice": 2.12,
+        "p": 0.005,
+        "maxPrice": 2.4
+      },
+      {
+        "code": "",
+        "symbol": "CARROT",
+        "min": 1,
+        "minPrice": 3.19,
+        "p": 0.005,
+        "maxPrice": 4
+      }
+    ]
+  }
