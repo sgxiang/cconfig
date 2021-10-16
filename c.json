@@ -39,7 +39,7 @@
   ],
   "stock": {
     "WHEAT": 4,
-    "CARROT": 2,
+    "CORN": 2,
     "COWFOOD": 2
   },
   "autoSellInfos": [
