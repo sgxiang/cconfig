@@ -1,6 +1,12 @@
 {
   "targetWorks": [
     {
+      "type": "cow",
+      "id": 3046,
+      "level": 1,
+      "actionLevel": 1
+    },
+    {
       "type": "feedmill",
       "id": 3045,
       "level": 1,
@@ -33,7 +39,8 @@
   ],
   "stock": {
     "WHEAT": 2,
-    "CARROT": 1
+    "CARROT": 1,
+    "COWFOOD": 1
   },
   "autoSellInfos": [
     {
@@ -59,6 +66,14 @@
       "minPrice": 3.19,
       "p": 0.005,
       "maxPrice": 4
+    },
+    {
+      "code": "dfsfarmitems",
+      "symbol": "MILK",
+      "min": 1,
+      "minPrice": 4.798,
+      "p": 0.005,
+      "maxPrice": 9
     }
   ]
 }
