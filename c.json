@@ -1,15 +1,33 @@
 {
   "targetWorks": [
     {
+      "type": "bakery",
+      "id": 3053,
+      "level": 3,
+      "actionLevel": 3
+    },
+    {
+      "type": "chicken",
+      "id": 3051,
+      "level": 3,
+      "actionLevel": 1
+    },
+    {
+      "type": "feedmill",
+      "id": 3052,
+      "level": 3,
+      "actionLevel": 2
+    },
+    {
       "type": "cow",
       "id": 3046,
-      "level": 2,
+      "level": 3,
       "actionLevel": 1
     },
     {
       "type": "feedmill",
       "id": 3045,
-      "level": 2,
+      "level": 3,
       "actionLevel": 1
     },
     {
@@ -33,14 +51,18 @@
     {
       "type": "land",
       "id": 1695,
-      "level": 1,
+      "level": 2,
       "actionLevel": 1
     }
   ],
   "stock": {
-    "WHEAT": 4,
-    "CORN": 2,
-    "COWFOOD": 2
+    "WHEAT": 24,
+    "CORN": 3,
+    "CARROT": 3,
+    "COWFOOD": 6,
+    "CHKFOOD": 6,
+    "MILK": 6,
+    "EGG": 6
   },
   "autoSellInfos": [
     {
