@@ -4,55 +4,64 @@
       "type": "bakery",
       "id": 3053,
       "level": 3,
-      "actionLevel": 3
+      "actionLevel": 3,
+      "round": 1
     },
     {
       "type": "chicken",
       "id": 3051,
       "level": 3,
-      "actionLevel": 1
+      "actionLevel": 1,
+      "round": 1
     },
     {
       "type": "feedmill",
       "id": 3052,
       "level": 3,
-      "actionLevel": 2
+      "actionLevel": 2,
+      "round": 1
     },
     {
       "type": "cow",
       "id": 3046,
       "level": 3,
-      "actionLevel": 1
+      "actionLevel": 1,
+      "round": 1
     },
     {
       "type": "feedmill",
       "id": 3045,
       "level": 3,
-      "actionLevel": 1
+      "actionLevel": 1,
+      "round": 1
     },
     {
       "type": "land",
       "id": 2916,
       "level": 2,
-      "actionLevel": 2
+      "actionLevel": 2,
+      "round": 1
     },
     {
       "type": "land",
       "id": 2917,
       "level": 2,
-      "actionLevel": 1
+      "actionLevel": 1,
+      "round": 2
     },
     {
       "type": "land",
       "id": 2628,
       "level": 3,
-      "actionLevel": 3
+      "actionLevel": 3,
+      "round": 1
     },
     {
       "type": "land",
       "id": 1695,
       "level": 2,
-      "actionLevel": 1
+      "actionLevel": 1,
+      "round": 2
     }
   ],
   "stock": {
