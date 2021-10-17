@@ -49,14 +49,14 @@
       "min": 1,
       "minPrice": 1.06,
       "maxPrice": 3,
-      "p": 0.005
+      "p": 0.002
     },
     {
       "code": "dfsfarmitems",
       "symbol": "CORN",
       "min": 1,
       "minPrice": 2.12,
-      "p": 0.005,
+      "p": 0.002,
       "maxPrice": 2.4
     },
     {
@@ -64,7 +64,7 @@
       "symbol": "CARROT",
       "min": 1,
       "minPrice": 3.19,
-      "p": 0.005,
+      "p": 0.002,
       "maxPrice": 4
     },
     {
@@ -72,7 +72,7 @@
       "symbol": "MILK",
       "min": 1,
       "minPrice": 4.798,
-      "p": 0.005,
+      "p": 0.002,
       "maxPrice": 9
     }
   ]
