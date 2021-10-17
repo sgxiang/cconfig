@@ -56,13 +56,13 @@
     }
   ],
   "stock": {
-    "WHEAT": 24,
+    "WHEAT": 36,
     "CORN": 3,
     "CARROT": 3,
     "COWFOOD": 6,
     "CHKFOOD": 6,
-    "MILK": 6,
-    "EGG": 6
+    "MILK": 9,
+    "EGG": 9
   },
   "autoSellInfos": [
     {
