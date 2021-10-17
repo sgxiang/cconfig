@@ -65,11 +65,11 @@
     }
   ],
   "stock": {
-    "WHEAT": 36,
-    "CORN": 3,
-    "CARROT": 3,
-    "COWFOOD": 6,
-    "CHKFOOD": 6,
+    "WHEAT": 40,
+    "CORN": 9,
+    "CARROT": 9,
+    "COWFOOD": 9,
+    "CHKFOOD": 9,
     "MILK": 9,
     "EGG": 9
   },
