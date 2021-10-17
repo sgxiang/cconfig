@@ -75,7 +75,7 @@
   },
   "autoSellInfos": [
     {
-      "code": "dfsfarmitems",
+      "code": "",
       "symbol": "WHEAT",
       "min": 1,
       "minPrice": 1.06,
@@ -83,7 +83,7 @@
       "p": 0.002
     },
     {
-      "code": "dfsfarmitems",
+      "code": "",
       "symbol": "CORN",
       "min": 1,
       "minPrice": 2.12,
@@ -91,7 +91,7 @@
       "maxPrice": 2.4
     },
     {
-      "code": "dfsfarmitems",
+      "code": "",
       "symbol": "CARROT",
       "min": 1,
       "minPrice": 3.19,
@@ -99,7 +99,7 @@
       "maxPrice": 4
     },
     {
-      "code": "dfsfarmitems",
+      "code": "",
       "symbol": "MILK",
       "min": 1,
       "minPrice": 4.798,
