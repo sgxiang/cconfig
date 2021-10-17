@@ -38,28 +38,28 @@
     {
       "type": "land",
       "id": 2916,
-      "level": 2,
+      "level": 3,
       "actionLevel": 2,
       "round": 1
     },
     {
       "type": "land",
       "id": 2917,
-      "level": 2,
+      "level": 3,
       "actionLevel": 1,
       "round": 2
     },
     {
       "type": "land",
       "id": 2628,
-      "level": 3,
+      "level": 4,
       "actionLevel": 3,
       "round": 1
     },
     {
       "type": "land",
       "id": 1695,
-      "level": 2,
+      "level": 3,
       "actionLevel": 1,
       "round": 2
     }
