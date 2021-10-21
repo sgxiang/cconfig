@@ -114,5 +114,6 @@
       "p": 0.002,
       "maxPrice": 9
     }
-  ]
+  ],
+  nodes: ["https://eos.greymass.com"]
 }
