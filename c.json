@@ -70,8 +70,8 @@
     "CARROT": 36,
     "COWFOOD": 9,
     "CHKFOOD": 9,
-    "MILK": 9,
-    "EGG": 9
+    "MILK": 6,
+    "EGG": 6
   },
   "autoSellInfos": [
     {
