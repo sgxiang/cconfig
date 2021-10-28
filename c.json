@@ -102,7 +102,7 @@
       "code": "dfsfarmitems",
       "symbol": "MILK",
       "min": 1,
-      "minPrice": 4.85,
+      "minPrice": 4.4,
       "p": 0.002,
       "maxPrice": 9
     },
@@ -110,7 +110,7 @@
       "code": "dfsfarmitems",
       "symbol": "EGG",
       "min": 1,
-      "minPrice": 6.2,
+      "minPrice": 5.6,
       "p": 0.002,
       "maxPrice": 9
     }
