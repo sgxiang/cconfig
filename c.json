@@ -65,39 +65,15 @@
     }
   ],
   "stock": {
-    "WHEAT": 40,
-    "CORN": 9,
-    "CARROT": 36,
-    "COWFOOD": 9,
-    "CHKFOOD": 9,
-    "MILK": 6,
-    "EGG": 6
+    "WHEAT": 100,
+    "CORN": 100,
+    "CARROT": 100,
+    "COWFOOD": 6,
+    "CHKFOOD": 6,
+    "MILK": 3,
+    "EGG": 3
   },
   "autoSellInfos": [
-    {
-      "code": "",
-      "symbol": "WHEAT",
-      "min": 1,
-      "minPrice": 1.06,
-      "maxPrice": 3,
-      "p": 0.002
-    },
-    {
-      "code": "",
-      "symbol": "CORN",
-      "min": 1,
-      "minPrice": 2.12,
-      "p": 0.002,
-      "maxPrice": 2.4
-    },
-    {
-      "code": "",
-      "symbol": "CARROT",
-      "min": 1,
-      "minPrice": 3.19,
-      "p": 0.002,
-      "maxPrice": 4
-    },
     {
       "code": "dfsfarmitems",
       "symbol": "MILK",
