@@ -91,5 +91,5 @@
       "maxPrice": 9
     }
   ],
-  "nodes": ["https://eos.greymass.com"]
+  "nodes": ["https://eos.greymass.com", "https://eospush.tokenpocket.pro", "https://api.eosn.io"]
 }
