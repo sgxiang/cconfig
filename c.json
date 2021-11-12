@@ -86,7 +86,7 @@
       "code": "dfsfarmitems",
       "symbol": "EGG",
       "min": 1,
-      "minPrice": 5.90,
+      "minPrice": 5.75,
       "p": 0.002,
       "maxPrice": 9
     }
