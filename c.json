@@ -5,63 +5,72 @@
       "id": 3053,
       "level": 3,
       "actionLevel": 3,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3000000"
     },
     {
       "type": "chicken",
       "id": 3051,
       "level": 3,
       "actionLevel": 1,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3000000"
     },
     {
       "type": "feedmill",
       "id": 3052,
       "level": 3,
       "actionLevel": 2,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3000000"
     },
     {
       "type": "cow",
       "id": 3046,
       "level": 3,
       "actionLevel": 1,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3000000"
     },
     {
       "type": "feedmill",
       "id": 3045,
       "level": 3,
       "actionLevel": 1,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3000000"
     },
     {
       "type": "land",
       "id": 2916,
       "level": 3,
       "actionLevel": 2,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:3400000"
     },
     {
       "type": "land",
       "id": 2917,
-      "level": 3,
+      "level": 4,
       "actionLevel": 1,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:4400000"
     },
     {
       "type": "land",
       "id": 2628,
       "level": 4,
       "actionLevel": 3,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:4400000"
     },
     {
       "type": "land",
       "id": 1695,
-      "level": 3,
+      "level": 4,
       "actionLevel": 1,
-      "round": 1
+      "round": 1,
+      "memo": "sell:USDT:4400000"
     }
   ],
   "stock": {
