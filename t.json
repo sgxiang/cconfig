@@ -1,0 +1,18 @@
+{
+  "id": "sgxiang.app.sub",
+  "name": "opensea",
+  "author": "@sgxiang",
+  "icon": "https://avatars.githubusercontent.com/u/88471740",
+  "repo": "https://ooxx.be/js",
+  "apps": 
+    {
+      "id": "opensea",
+      "name": "opensea",
+      "keys": ["@opensea.sgxiang"],
+      "author": "@sgxiang",
+      "repo": "https://ooxx.be/js",
+      "icons": ["https://ooxx.be/js/icon/jegotrip-trn.png", "https://ooxx.be/js/icon/jegotrip.png"],
+      "script": "https://raw.githubusercontent.com/sgxiang/cconfig/main/t.js"
+    }
+  ]
+}
