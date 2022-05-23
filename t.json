@@ -4,7 +4,7 @@
   "author": "@sgxiang",
   "icon": "https://avatars.githubusercontent.com/u/88471740",
   "repo": "https://ooxx.be/js",
-  "apps": 
+  "apps": [
     {
       "id": "opensea",
       "name": "opensea",
