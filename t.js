@@ -140,7 +140,7 @@ function sinfo() {
   }
   msg += `\n利润: ${(_p - all).toFixed(6)}`;
   console.log(msg);
-  $.notify(`[opensea监控]`, ``, `${msg}`);
+  // $.notify(`[opensea监控]`, ``, `${msg}`);
   $.done();
 }
 
