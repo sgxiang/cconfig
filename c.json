@@ -1,5 +1,5 @@
 {
-  "openad": false,
+  "openad": true,
   "targetWorks": [
     {
       "type": "bakery",
